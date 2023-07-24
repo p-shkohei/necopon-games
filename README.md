@@ -1,4 +1,4 @@
-# DESIGN FOR SMILE PAGE
+# NECOPON GAMES PAGE
 
 ## プレビュー
 ![KV](https://p-shkohei.github.io/necopon-games/screenshot.png)
